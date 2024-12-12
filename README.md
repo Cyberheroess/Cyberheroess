@@ -20,7 +20,6 @@
 
 ## 🔗 **Akses Cepat**
 [![GitHub](https://img.shields.io/badge/GitHub-Cyber--Heroes-blue?style=for-the-badge&logo=github)](https://github.com)  
-[![Website](https://img.shields.io/badge/Website-Explore%20More-green?style=for-the-badge&logo=internet-explorer)](https://example.com)  
 [![Join Us](https://img.shields.io/badge/Join%20Us-Today-orange?style=for-the-badge&logo=discord)](https://example.com)
 
 ---
@@ -33,12 +32,3 @@
 | 🌐 **Cloud Security**    | Audit keamanan otomatis untuk infrastruktur cloud                       | 🛠️ Dalam Perbaikan |
 
 ---
-
-## ❤️ **Dukung Kami**
-> Jika Anda ingin mendukung misi kami, silakan star repo ini di GitHub ⭐ atau kunjungi website kami untuk berkontribusi!
-
----
-
-## 📬 **Kontak**
-📧 **Email:** [contact@cyberheroes.com](mailto:contact@cyberheroes.com)  
-🌐 **Website:** [https://cyberheroes.com](https://cyberheroes.com)
