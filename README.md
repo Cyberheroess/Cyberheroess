@@ -28,7 +28,7 @@
 | **Proyek**               | **Deskripsi**                                                             | **Status**          |
 |--------------------------|---------------------------------------------------------------------------|---------------------|
 | 🔒 **WAF Bypass**        | Mengembangkan bypass canggih berbasis AI/ML                              | 🚀 Sedang Dikembangkan |
-| ⚙️ **OSINT Toolkit**    | Alat untuk investigasi online dan melawan penipuan                       | ✅ Selesai          |
+| ⚙️ **OSINT Toolkit**    | Alat untuk pelacakan informasi                       | ✅ Selesai          |
 | 🌐 **Cloud Security**    | Audit keamanan otomatis untuk infrastruktur cloud                       | 🛠️ Dalam Perbaikan |
 
 ---
