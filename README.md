@@ -1,8 +1,5 @@
-![17339782631911164328323173903781](https://github.com/user-attachments/assets/b801455a-66cd-4e9d-abd2-767dbefefb7a)
-
-#### Cyber-Heroes adalah kelompok keamanan siber yang mengembangkan alat, script, dan edukasi untuk melawan ancaman digital dan melindungi perusahaan 🛡️💻.
-<a href="https://example.com" target="_blank" style="text-decoration:none;">
-  <button style="background-color:#4CAF50; color:white; border:none; padding:10px 20px; border-radius:5px; cursor:pointer;">
-    Click Me
-  </button>
-</a>
+<div style="background-color:#4CAF50; color:white; padding:20px; border-radius:10px; text-align:center;">
+  <h2>Cyber-Heroes</h2>
+  <p>Mengembangkan alat, script, dan edukasi untuk keamanan siber 🛡️💻.</p>
+  <a href="https://example.com" style="color:#fff; text-decoration:none; padding:10px 20px; background-color:#333; border-radius:5px;">Click Here</a>
+</div>
