@@ -19,7 +19,7 @@
 ---
 
 ## 🔗 **Akses Cepat**
-[![GitHub](https://img.shields.io/badge/GitHub-Cyber--Heroes-blue?style=for-the-badge&logo=github)](https://github.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Cyber--Heroes-blue?style=for-the-badge&logo=github)](https://github.com/Cyberheroess)  
 [![Join Us](https://img.shields.io/badge/Join%20Us-Today-orange?style=for-the-badge&logo=discord)](https://example.com)
 
 ---
