@@ -1,4 +1,5 @@
 # 🌟 **Cyber-Heroes** 🌟
+![17339874493406193727629500266066](https://github.com/user-attachments/assets/ec3d8730-8153-420a-aa42-d4595ae9e4e7)
 
 > **Komunitas Keamanan Siber**  
 > Mengembangkan alat, script, dan edukasi untuk melawan ancaman digital serta melindungi perusahaan. 🛡️💻
