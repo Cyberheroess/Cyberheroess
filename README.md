@@ -33,3 +33,4 @@
 
 ---
 ![Cyberheroess GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberheroess&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberheroess&layout=compact&theme=radical)
