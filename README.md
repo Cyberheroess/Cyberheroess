@@ -1,35 +1,35 @@
 # 🌟 **Cyber-Heroes** 🌟
 ![17339874493406193727629500266066](https://github.com/user-attachments/assets/ec3d8730-8153-420a-aa42-d4595ae9e4e7)
 
-> **Komunitas Keamanan Siber**  
-> Mengembangkan alat, script, dan edukasi untuk melawan ancaman digital serta melindungi perusahaan. 🛡️💻
+> **Cybersecurity Community**  
+> Developing tools, scripts, and educational resources to combat digital threats and protect businesses. 🛡️💻
 
 ---
 
-## 🚀 **Kenapa Bergabung dengan Kami?**
-| 🛡️ **Keamanan**         | Mengembangkan script untuk melawan ancaman digital             |
+## 🚀 **Why Join Us?**
+| 🛡️ **Security**         | Developing scripts to counter digital threats                 |
 |--------------------------|---------------------------------------------------------------|
-| 💡 **Edukasi**           | Memberikan pengetahuan keamanan siber melalui platform edukasi |
-| 🌍 **Komunitas Global**  | Berkolaborasi dengan ahli dan pemula di dunia keamanan siber   |
+| 💡 **Education**         | Providing cybersecurity knowledge through educational platforms |
+| 🌍 **Global Community**  | Collaborating with experts and beginners in the cybersecurity world |
 
 ---
 
-## 🎯 **Visi Kami**
-> 🌐 Menjadikan dunia digital lebih aman melalui teknologi inovatif dan kolaborasi komunitas.
+## 🎯 **Our Vision**
+> 🌐 Making the digital world safer through innovative technology and community collaboration.
 
 ---
 
-## 🔗 **Akses Cepat**
+## 🔗 **Quick Access**
 [![GitHub](https://img.shields.io/badge/GitHub-Cyber--Heroes-blue?style=for-the-badge&logo=github)](https://github.com/Cyberheroess)  
 
 ---
 
-## 📂 **Proyek Unggulan**
-| **Proyek**               | **Deskripsi**                                                             | **Status**          |
-|--------------------------|---------------------------------------------------------------------------|---------------------|
-| 🔒 **WAF Bypass**        | Mengembangkan bypass canggih berbasis AI/ML                              | 🚀 Sedang Dikembangkan |
-| ⚙️ **OSINT Toolkit**    | Alat untuk pelacakan informasi                       | ✅ Selesai          |
-| 🌐 **Cloud Security**    | Audit keamanan otomatis untuk infrastruktur cloud                       | 🛠️ Dalam Perbaikan |
+## 📂 **Featured Projects**
+| **Project**              | **Description**                                                       | **Status**            |
+|--------------------------|-----------------------------------------------------------------------|-----------------------|
+| 🔒 **WAF Bypass**        | Developing an advanced AI/ML-based WAF bypass                        | 🚀 In Development     |
+| ⚙️ **OSINT Toolkit**    | An information tracking tool                                         | ✅ Completed          |
+| 🌐 **Cloud Security**    | Automated security audit for cloud infrastructure                    | 🛠️ Under Maintenance |
 
 ---
 ![Cyberheroess GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberheroess&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
