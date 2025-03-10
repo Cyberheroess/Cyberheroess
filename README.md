@@ -22,6 +22,10 @@
 ## 🔗 **Quick Access**
 [![GitHub](https://img.shields.io/badge/GitHub-Cyber--Heroes-blue?style=for-the-badge&logo=github)](https://github.com/Cyberheroess)  
 
+💡 **Mau belajar lebih lanjut? Gabung ke CyberHeroes!** 🚀  
+🔗 **[CyberHeroes Community](https://chat.whatsapp.com/JJCwRcmcmHf4HBNhqjYvuK)**  
+🔗 **[GitHub Exploit Dictionary](https://github.com/Cyberheroess/Comprehensive-Exploit-Dictionary/blob/main/Payload-mutation.md)**  
+
 ---
 
 ## 📂 **Featured Projects**
