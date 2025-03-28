@@ -28,13 +28,5 @@
 
 ---
 
-## 📂 **Featured Projects**
-| **Project**              | **Description**                                                       | **Status**            |
-|--------------------------|-----------------------------------------------------------------------|-----------------------|
-| 🔒 **WAF Bypass**        | Developing an advanced AI/ML-based WAF bypass                        | 🚀 In Development     |
-| ⚙️ **OSINT Toolkit**    | An information tracking tool                                         | ✅ Completed          |
-| 🌐 **Cloud Security**    | Automated security audit for cloud infrastructure                    | 🛠️ Under Maintenance |
-
----
 ![Cyberheroess GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyberheroess&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberheroess&layout=compact&theme=radical)
