@@ -3,6 +3,8 @@
 
 > **Cybersecurity Community**  
 > Developing tools, scripts, and educational resources to combat digital threats and protect businesses. 🛡️💻
+### Geek Tools:
+![GNU](https://img.shields.io/badge/GNU-000000?style=for-the-badge&logo=gnu&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ---
 
